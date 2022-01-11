@@ -1,0 +1,17 @@
+.box {
+			border:2px outset black;
+			background-color:white;
+			text-align:center;
+			margin-left:auto;
+			margin-right:auto;
+			width:500;
+}
+.thickbox {
+			border:5px outset black;
+			background-color:white;
+			text-align:center;
+			margin-left:auto;
+			margin-right:auto;
+			width:75%;
+			white-space:nowrap;
+}
